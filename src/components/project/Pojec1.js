@@ -15,7 +15,7 @@ const Project1 = () => {
         {projectData.map((val, index) => {
           return (
             <div className=" flex items-center justify-center m-4 ">
-              <div className=" max-w-sm p-4 overflow-hidden shadow-lg bg-transparent shadow-orange-600 cursor-pointer hover:scale-105 ease-in-out duration-300 rounded-2xl">
+              <div className=" max-w-sm p-2 overflow-hidden shadow-lg bg-transparent shadow-orange-600 cursor-pointer hover:scale-105 ease-in-out duration-300 rounded-2xl">
                 <img
                   className=" w-full"
                   src={val.image}

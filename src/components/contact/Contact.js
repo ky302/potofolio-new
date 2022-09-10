@@ -6,7 +6,7 @@ import twitter from "../assets/social/twitter.svg";
 
 const Contact = () => {
   return (
-    <div className="contact px-16 lg:px-0 pt-16 lg:pb-8">
+    <div className="contact px-6 lg:px-0 pt-16 lg:pb-8">
       <div className="contact-section max-w-full mx-auto grid grid-cols-1 lg:grid-cols-3 lg:space-x-20">
         <div id="contact" className="contact-form text-white lg:ml-32 ">
           <h2 className=" text-5xl lg:text-6xl text-center lg:text-left font-bold text-orange-600 py-10">
