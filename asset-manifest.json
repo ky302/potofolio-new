@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/potofolio-new/static/css/main.9f6e2b3d.css",
-    "main.js": "/potofolio-new/static/js/main.22b0ecc8.js",
+    "main.css": "/potofolio-new/static/css/main.3512b042.css",
+    "main.js": "/potofolio-new/static/js/main.0b2fb310.js",
     "static/js/787.28cb0dcd.chunk.js": "/potofolio-new/static/js/787.28cb0dcd.chunk.js",
     "static/media/film.png": "/potofolio-new/static/media/film.909052446ed9b26aecd1.png",
     "static/media/landing.png": "/potofolio-new/static/media/landing.9bd6200427f004b6ca07.png",
@@ -97,12 +97,12 @@
     "static/media/vue.svg": "/potofolio-new/static/media/vue.5f5d16894e0a3def9502734973eb8eb5.svg",
     "static/media/vuetifyjs.svg": "/potofolio-new/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/potofolio-new/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
-    "main.9f6e2b3d.css.map": "/potofolio-new/static/css/main.9f6e2b3d.css.map",
-    "main.22b0ecc8.js.map": "/potofolio-new/static/js/main.22b0ecc8.js.map",
+    "main.3512b042.css.map": "/potofolio-new/static/css/main.3512b042.css.map",
+    "main.0b2fb310.js.map": "/potofolio-new/static/js/main.0b2fb310.js.map",
     "787.28cb0dcd.chunk.js.map": "/potofolio-new/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f6e2b3d.css",
-    "static/js/main.22b0ecc8.js"
+    "static/css/main.3512b042.css",
+    "static/js/main.0b2fb310.js"
   ]
 }
