@@ -33,7 +33,7 @@ const Home = () => {
           <div>
             <h4 className=" font-bold text-lg">FrontEnd Developer</h4>
             <h1 className="font-bold text-4xl pb-5">Ahmad Subekhi</h1>
-            <div className="font-normal max-w-md text-lg pb-12">
+            <div className="font-normal max-w-md text-lg px-6 lg:px-0 pb-12">
               self-driven, quick starter, passionate programmer with a curious
               mind who loves solving a very complex, very challenging real-world
               problems.
@@ -52,10 +52,7 @@ const Home = () => {
       </div>
       <div className="about">
         <div className="container max-w-5xl mx-auto grid lg:grid-cols-2 sm:grid-cols-1 py-10 lg:py-20">
-          <div
-            id="about"
-            className="about-description text-white px-16 lg:px-0"
-          >
+          <div id="about" className="about-description text-white px-6 lg:px-0">
             <h2 className=" text-5xl lg:text-6xl font-bold text-orange-600 py-10 text-center lg:text-left">
               {AboutData.title}
             </h2>

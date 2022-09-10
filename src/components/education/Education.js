@@ -6,7 +6,7 @@ const Education = () => {
   return (
     <div className="education">
       <div className="container max-w-5xl text-white mx-auto grid lg:grid-cols-2 sm:grid-cols-1 py-16 lg:py-10">
-        <div id="education" className="container px-16 lg:px-0">
+        <div id="education" className="container px-6 lg:px-0">
           <h2 className=" text-5xl lg:text-6xl font-bold text-orange-600 py-10 text-center lg:text-left">
             Education
           </h2>

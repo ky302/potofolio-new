@@ -57,7 +57,7 @@ const NavigationBar = () => {
           <div className="flex flex-col text-center lg:text-left  lg:flex-row">
             <a
               href="#about"
-              className=" hover:border-b-2 block px-4 py-2 lg:py-5 text-orange-600 hover:text-orange-300"
+              className="block px-4 py-2 lg:py-5 text-orange-600 hover:text-orange-300"
             >
               {" "}
               About
