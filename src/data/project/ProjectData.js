@@ -9,6 +9,7 @@ import space from "../../components/assets/porto/space.png";
 import dropdown from "../../components/assets/porto/dropdown.png";
 import quote from "../../components/assets/porto/quote.png";
 import landingpage from "../../components/assets/porto/Landingpage.png";
+import dashboard from "../../components/assets/porto/Dashboard.png";
 
 export const projectData = [
   {
@@ -17,6 +18,13 @@ export const projectData = [
       "Responsive website using ReactJs, Tailwind css and React Router Dom",
     image: space,
     link: "https://ky302.github.io/space-page-project/",
+  },
+  {
+    title: "Dashboard Theme",
+    describe:
+      "Responsive website using ReactJs, Tailwind css and React Router Dom",
+    image: dashboard,
+    link: " https://ky302.github.io/theme01/",
   },
   {
     title: "Landing Page",

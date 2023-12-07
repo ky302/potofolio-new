@@ -7,6 +7,7 @@ import portal from "../assets/porto/portal.png";
 import smart from "../assets/porto/smart.png";
 import vpn from "../assets/porto/vpn1.png";
 import space from "../assets/porto/space.png";
+import dashboard from "../assets/porto/Dashboard.png";
 
 const Project = () => {
   const projectData = [
@@ -15,6 +16,12 @@ const Project = () => {
       describe:
         "Responsive website using ReactJs, Tailwind css and React Router Dom",
       image: space,
+    },
+    {
+      title: "Dashboard Theme",
+      describe:
+        "Responsive website using ReactJs, Tailwind css and React Router Dom",
+      image: dashboard,
     },
     {
       title: "Film Website",
