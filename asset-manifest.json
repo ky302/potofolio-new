@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/potofolio-new/static/css/main.e9456cb7.css",
-    "main.js": "/potofolio-new/static/js/main.91fbcb61.js",
+    "main.js": "/potofolio-new/static/js/main.d03278f7.js",
     "static/js/787.28cb0dcd.chunk.js": "/potofolio-new/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ahmad.png": "/potofolio-new/static/media/ahmad.5cc3cfb84c0e589d6c2c.png",
     "static/media/film.png": "/potofolio-new/static/media/film.909052446ed9b26aecd1.png",
     "static/media/landing.png": "/potofolio-new/static/media/landing.9bd6200427f004b6ca07.png",
     "static/media/company.png": "/potofolio-new/static/media/company.14df48a2f9890004bf46.png",
@@ -12,7 +13,6 @@
     "static/media/portal.png": "/potofolio-new/static/media/portal.41064daee6ef8492eecf.png",
     "static/media/dropdown.png": "/potofolio-new/static/media/dropdown.4be91fc086bf9303951b.png",
     "static/media/kri.jpeg": "/potofolio-new/static/media/kri.5e6aeb7035bd4c683480.jpeg",
-    "static/media/ahmad1.jpeg": "/potofolio-new/static/media/ahmad1.25ab9835cc0dc8551770.jpeg",
     "static/media/vpn1.png": "/potofolio-new/static/media/vpn1.0021409c431178c5bc8e.png",
     "static/media/Landingpage.png": "/potofolio-new/static/media/Landingpage.4859a2615266cf8f7a4d.png",
     "static/media/quote.png": "/potofolio-new/static/media/quote.73ed7cb7a82facefcaa8.png",
@@ -98,11 +98,11 @@
     "static/media/vuetifyjs.svg": "/potofolio-new/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/potofolio-new/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "main.e9456cb7.css.map": "/potofolio-new/static/css/main.e9456cb7.css.map",
-    "main.91fbcb61.js.map": "/potofolio-new/static/js/main.91fbcb61.js.map",
+    "main.d03278f7.js.map": "/potofolio-new/static/js/main.d03278f7.js.map",
     "787.28cb0dcd.chunk.js.map": "/potofolio-new/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9456cb7.css",
-    "static/js/main.91fbcb61.js"
+    "static/js/main.d03278f7.js"
   ]
 }
