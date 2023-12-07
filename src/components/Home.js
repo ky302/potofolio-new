@@ -1,6 +1,6 @@
 import React from "react";
 import { saveAs } from "file-saver";
-import ProfileImg from "./assets/ahmad1.jpeg";
+import ProfileImg from "./assets/ahmad.png";
 import ThemeOrng from "./assets/orangeTheme-boy.svg";
 import LineStyle from "./LineStyle";
 import { AboutData } from "../data/about/AboutData";
@@ -14,8 +14,8 @@ import Project1 from "./project/Pojec1";
 const Home = () => {
   const saveFile = () => {
     saveAs(
-      "https://drive.google.com/file/d/16lBb0SFino4R4QetBCWq2UEhiqK14zNT/view?usp=sharing",
-      "CV Ahmad Subekhi.pdf"
+      "https://drive.google.com/uc?id=1ehdG5CBkAWdptGIBXbDQ9BMhLEOBAT3t",
+      "Ahmad Subekhi resume Software.pdf"
     );
   };
 
@@ -31,7 +31,7 @@ const Home = () => {
         </div>
         <div className="flex items-center justify-center text-center lg:text-left py-6">
           <div>
-            <h4 className=" font-bold text-lg">FrontEnd Developer</h4>
+            <h4 className=" font-bold text-lg">Software Engineer</h4>
             <h1 className="font-bold text-4xl pb-5">Ahmad Subekhi</h1>
             <div className="font-normal max-w-md text-lg px-6 lg:px-0 pb-12">
               self-driven, quick starter, passionate programmer with a curious
