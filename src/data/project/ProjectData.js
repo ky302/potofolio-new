@@ -11,8 +11,16 @@ import quote from "../../components/assets/porto/quote.png";
 import landingpage from "../../components/assets/porto/Landingpage.png";
 import dashboard from "../../components/assets/porto/Dashboard.png";
 import biometric from "../../components/assets/porto/biometric.png";
+import movie from "../../components/assets/porto/Movie.png";
 
 export const projectData = [
+  {
+    title: "Movie Website",
+    describe:
+      "Responsive website using ReactJs, Tailwind css and React Router Dom",
+    image: movie,
+    link: "https://ky302.github.io/movieku/",
+  },
   {
     title: "Space Website",
     describe:
